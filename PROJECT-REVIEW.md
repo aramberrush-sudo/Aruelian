@@ -21,3 +21,7 @@ The user confirmed all images show completed work with slight enhancement, but d
 Chromium at 390px and 1440px: four changed portfolio/service pages, 14 slider instances per viewport; keyboard Home/End and range endpoints passed. No horizontal overflow or JavaScript exceptions. All portfolio image variants selected by the browser decoded. No-JavaScript before-image fallback passed. All 277 local links/assets/anchors resolved; IDs are unique and structured-data JSON parses. JavaScript syntax check passed.
 
 Contact form submission and external image/font availability were not exercised. Existing branding, service content, forms and contact details are retained. Review the local branch before any publication.
+
+## Category revision
+
+Review branch: `feature/portfolio-categories`. Kitchens are grouped together; shower projects are consolidated into Bathrooms, with the duplicated gray bathroom comparison removed. The black bathroom and black kitchen are under Custom Countertops. The entertainment center remains under Specialty Projects. Kitchen countertop duplicate cards were removed so each project appears once in the portfolio. Additional photos are pending upload. This revision has not been pushed or published.
