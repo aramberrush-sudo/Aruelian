@@ -1,0 +1,15 @@
+/* Official Aruelian logo supplied by the brand owner. */
+header{background:#111;border-bottom:1px solid #8d7749;backdrop-filter:none}
+header nav{padding-top:4px;padding-bottom:4px;min-height:100px}
+header .logo{display:flex;flex-shrink:0;width:132px}
+header .brand-logo{display:block;width:132px;height:92px;object-fit:contain}
+header .nav-links>a,header .services-menu>summary,header .header-phone{color:#F7F5F0}
+header .nav-links>.nav-cta{background:#C7B08A;color:#1F1F1F!important}
+header .nav-links>.nav-cta:hover{background:#dfcba9}
+.footer-brand-logo{display:block;width:176px;height:176px;object-fit:contain;margin-bottom:16px}
+.hero,.phero{padding-top:150px}
+@media(max-width:900px){
+  header nav{padding-top:4px;padding-bottom:4px;min-height:100px}
+  body>main{padding-top:190px!important}
+  .hero,.phero{padding-top:190px}
+}
